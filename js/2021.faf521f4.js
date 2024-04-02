@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklegalcase"]=self["webpackChunklegalcase"]||[]).push([[2021],{62021:function(l,e,u){u.r(e);var a,s,n=u(81656),c={},t=(0,n.A)(c,a,s,!1,null,null,null);e["default"]=t.exports}}]);
+//# sourceMappingURL=2021.faf521f4.js.map
